@@ -1,6 +1,6 @@
 {
   "__type__": "cc.AnimationClip",
-  "_name": "jump",
+  "_name": "down",
   "_objFlags": 0,
   "_native": "",
   "_duration": 0.2,
@@ -25,6 +25,14 @@
           }
         ]
       }
+    },
+    "props": {
+      "y": [
+        {
+          "frame": 0.1,
+          "value": -60
+        }
+      ]
     }
   },
   "events": []
