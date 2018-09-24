@@ -11,5 +11,6 @@ cc.Class({
 
     onClickRole() {
         console.log('----------------------');
+        //cc.director.loadScene('game');
     },
 });
